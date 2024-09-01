@@ -11,6 +11,7 @@ A HTML WebSite that is a Launcher for my Pizza Tower Ports
 ### Thanks to these people on Discord:
 - @Dess for Background 1 (the Red One)
 - @Greenstachio for Background 2 (the Purple one that features me)
+- @Nero for the Pictures inside of the TV icons
 
 Also shout-out to Stack Overflow for carrying most of the code relating to Backgrounds
 > Such as the Background Randomizing code and Background Scrolling
