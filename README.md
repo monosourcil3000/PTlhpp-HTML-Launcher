@@ -15,6 +15,14 @@ Other Link that'll probably be discontinued: https://pt-emscriptenport.x10.mx/ru
 - Leoby19 on Github for sound.js, which powers the sound system for the background song
 > Original Link Here: https://github.com/Leoby19/SoundJS-Notifier-NoClick
 
+- D-Official for the Background Music
+> I extracted it from his PT Switch Port
+
+> [!NOTE]
+> These people on Github don't know about this and that their stuff was used to make this
+>
+> but I thought I should thank them anyways
+
 ### Thanks to these people on Discord:
 - @Dess for Background 1 (the Red One)
 - @Greenstachio for Background 2 (the Purple one that features me)
