@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>Pizza Tower Web Port Launcher</title>
+        <meta name="description" content="A Launcher for my Pizza Tower 1.1.0 Web Port">
+        <meta name="keywords" content="pizza tower, pt web port, pt browser port, PT, Pizza Tower">
+        <link rel="shortcut icon" href="favicon.ico">
+        <link rel="shortcut icon" href="assets/images/favicons/favicon.png" type="image/x-icon">
+        <link rel="apple-touch-icon" href="assets/images/favicons/apple-touch-icon.png">
+        <link rel="apple-touch-icon-precomposed" href="assets/images/favicons/apple-touch-icon-precomposed.png">
+        <link rel="stylesheet" href="assets/css/main.css">
+		<script src="assets/js/sound.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    </head>
+    <body>
+    <!--
+    Thanks to website-templates on Github for the main website
+    Original Template is Here: https://github.com/website-templates/simple-gallery_responsive-template
+
+    Also shout-out to Leoby19 on Github for sound.js, which powers the sound system for this fucking meme song
+    Original Link Here: https://github.com/Leoby19/SoundJS-Notifier-NoClick
+    -->
+
+    <script>
+	// Sound related shit that starts sound.js overlay 
+	createPopupEnableSounds("./assets/secret_lario.ogg");
+	crossBrowserNotificationSoundPlay();
+	</script>
+	
+	<script>
+	// JQuery code that randomizes any images listed in this array here
+	var images = ['./images/bg/bg.png', './images/bg/bg2.png'];
+	// the /assets/ folder is removed, as its handled below for some reason
+	$('body').css({'background-image': 'url(assets/' + images[Math.floor(Math.random() * images.length)] + ')'});
+	</script>
+	<!--
+	Also thanks for @Dess for bg.png
+	and @Greenstachio for bg2.png
+	these backgrounds are amazing
+	-->
+
+        <hader class="page-header">
+            <div class="page-header__inner">
+                <div class="page-header__group">
+                    <h1 class="page-header__title">Pizza Tower Web Port Launcher</h1>
+                </div>
+            </div>
+        </hader>
+        <div class="page-content">
+            <main class="page-content__main">
+                <section class="page-content__gallery">
+                    <div class="gallery">
+                        <div class="gallery__inner">
+                            <div class="gallery__flow">
+							<!-- cutoff -->
+                                <div class="gallery__isle">
+                                    <div class="gallery__isle-inner">
+                                        <div class="gallery__isle-content">
+                                            <figure class="gallery__preview">
+                                                <div class="gallery__preview-image">
+												<!-- important shit -->
+                                                    <img src="assets/images/bubbles/leftbub.png" alt="Pizza Tower 1.1.0 (Sound Build)">
+                                                </div>
+                                                <figcaption class="gallery__preview-caption">
+                                                    <div class="gallery__preview-info">
+                                                        <h2 class="gallery__preview-title">Pizza Tower 1.1.0 (Sound Build)</h2>
+                                                        <div class="gallery__preview-links">
+                                                            <a class="gallery__preview-link gallery__preview-link_role_original" href="https://www.autistici.org/burnedprojects/pt_noise_build/runner.html">This is the most recent build, which has Sound</a>
+                                                            <a class="gallery__preview-link gallery__preview-link_role_author" href="https://www.autistici.org/burnedprojects/pt_noise_build/runner.html">This Build is stable, but it's still a Work in Progress</a>
+                                                            <a class="gallery__preview-link gallery__preview-link_role_photographer" href="https://www.autistici.org/burnedprojects/pt_noise_build/runner.html">Click Here to Play</a>
+															<!-- important shit -->
+                                                        </div>
+                                                    </div>
+                                                </figcaption>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+								<!-- cutoff -->
+                                <div class="gallery__isle">
+                                    <div class="gallery__isle-inner">
+                                        <div class="gallery__isle-content">
+                                            <figure class="gallery__preview">
+                                                <div class="gallery__preview-image">
+												<!-- important shit -->
+                                                    <img src="assets/images/bubbles/rightbub.png" alt="Pizza Tower 1.1.0 (Fast Loading Build)">
+                                                </div>
+                                                <figcaption class="gallery__preview-caption">
+                                                    <div class="gallery__preview-info">
+                                                        <h2 class="gallery__preview-title">Pizza Tower 1.1.0 (Fast Loading Build)</h2>
+                                                        <div class="gallery__preview-links">
+                                                            <a class="gallery__preview-link gallery__preview-link_role_original" href="https://pt-emscriptenport.x10.mx/index.html">This Build doesn't have Sound, but will load faster</a>
+                                                            <a class="gallery__preview-link gallery__preview-link_role_author" href="https://pt-emscriptenport.x10.mx/index.html">For those that have slower WiFi speeds or slow computers</a>
+                                                            <a class="gallery__preview-link gallery__preview-link_role_photographer" href="https://pt-emscriptenport.x10.mx/index.html">Click Here to Play</a>
+															<!-- important shit -->
+                                                        </div>
+                                                    </div>
+                                                </figcaption>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        </div>
+        <footer class="page-footer">
+            <div class="page-footer__inner">
+                <div class="page-footer__group">
+					<p class="page-footer__text">
+                        <a class="page-footer__text-link" href="https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port">Web Ports by burnedpopcorn180 on Github</a>
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
