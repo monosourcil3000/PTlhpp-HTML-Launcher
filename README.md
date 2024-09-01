@@ -1,6 +1,10 @@
 # Pizza Tower HTML Launcher
 A HTML WebSite that is a Launcher for my Pizza Tower Ports
 
+Link: https://burnedpopcorn.github.io/PT-HTML-Launcher/launcher.html
+
+Other Link that'll probably be discontinued: https://pt-emscriptenport.x10.mx/runner.html
+
 ### Thanks To these people on Github:
 - website-templates on Github for the Website Template
 > Original Template is Here: https://github.com/website-templates/simple-gallery_responsive-template
