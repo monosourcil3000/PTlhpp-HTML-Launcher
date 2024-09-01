@@ -6,7 +6,7 @@ Link: https://burnedpopcorn.github.io/PT-HTML-Launcher/launcher.html
 Other Link that'll probably be discontinued: https://pt-emscriptenport.x10.mx/runner.html
 
 > [!NOTE]
-> Current Version: v1.1
+> Current Version: v1.2
 
 ### Thanks To these people on Github:
 - website-templates for the Website Template
@@ -25,7 +25,8 @@ Other Link that'll probably be discontinued: https://pt-emscriptenport.x10.mx/ru
 
 ### Thanks to these people on Discord:
 - @Dess for Background 1 (the Red One)
-- @Greenstachio for Background 2 (the Purple one that features me)
+- @Greenstachio for Background 2 (the Purple one)
+- @bfbfan26 for Background 3 (the Green one)
 - @Nero for the Pictures inside of the TV icons
 
 Also shout-out to Stack Overflow for carrying most of the code relating to Backgrounds
