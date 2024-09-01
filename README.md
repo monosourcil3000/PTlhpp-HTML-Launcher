@@ -9,10 +9,10 @@ Other Link that'll probably be discontinued: https://pt-emscriptenport.x10.mx/ru
 > Current Version: v1.1
 
 ### Thanks To these people on Github:
-- website-templates on Github for the Website Template
+- website-templates for the Website Template
 > Original Template is Here: https://github.com/website-templates/simple-gallery_responsive-template
 
-- Leoby19 on Github for sound.js, which powers the sound system for the background song
+- Leoby19 for sound.js, which powers the sound system for the background song
 > Original Link Here: https://github.com/Leoby19/SoundJS-Notifier-NoClick
 
 - D-Official for the Background Music
