@@ -31,5 +31,9 @@ Other Link that'll probably be discontinued: https://pt-emscriptenport.x10.mx/ru
 - @bfbfan26 for Background 3 (the Green one)
 - @Nero for the Pictures inside of the TV icons
 
-Also shout-out to Stack Overflow for carrying most of the code relating to Backgrounds
+### Other Thanks
+- This Guy on Youtube for the Pizza Tower Font
+> https://www.youtube.com/watch?v=rTVZeKDTq0Q
+
+- Stack Overflow for carrying most of the code relating to Backgrounds
 > Such as the Background Randomizing code and Background Scrolling
