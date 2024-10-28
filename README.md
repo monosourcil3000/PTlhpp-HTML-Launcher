@@ -6,7 +6,7 @@ Link: https://burnedpopcorn.github.io/PT-HTML-Launcher/launcher.html
 Other Link that'll probably be discontinued: https://pt-emscriptenport.x10.mx/runner.html
 
 > [!NOTE]
-> Current Version: v1.2
+> Current Version: v1.2.1
 
 ![image](https://github.com/burnedpopcorn/PT-HTML-Launcher/blob/main/if_fork_delete_this/pic.png)
 
